@@ -1,0 +1,8 @@
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\bin\Release\agedesktopapp.exe.config
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\bin\Release\agedesktopapp.exe
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\bin\Release\agedesktopapp.pdb
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Release\agedesktopapp.Form1.resources
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Release\agedesktopapp.Properties.Resources.resources
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Release\agedesktopapp.csproj.GenerateResource.cache
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Release\agedesktopapp.exe
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Release\agedesktopapp.pdb

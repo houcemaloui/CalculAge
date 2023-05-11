@@ -1,0 +1,9 @@
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\bin\Debug\agedesktopapp.exe.config
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\bin\Debug\agedesktopapp.exe
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\bin\Debug\agedesktopapp.pdb
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Debug\agedesktopapp.csprojAssemblyReference.cache
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Debug\agedesktopapp.Form1.resources
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Debug\agedesktopapp.Properties.Resources.resources
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Debug\agedesktopapp.csproj.GenerateResource.cache
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Debug\agedesktopapp.exe
+C:\Users\HOUCEM\source\repos\agedesktopapp\agedesktopapp\obj\Debug\agedesktopapp.pdb
